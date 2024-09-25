@@ -1,0 +1,28 @@
+nav{
+    background-color: black;
+
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.6a7a745d0cf6e1478e104e6a7fee6cc1?rik=xULJFzGntGDtew&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2016%2f01%2fnature-wallpapers-38.jpg&ehk=dUtU7hvI%2bIv1ZAogg0%2b%2fznLW5KEYTsPob9LlywpnX1Q%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.container{
+    display: flex;
+    gap: 20px;
+}
+h1{
+    color: aqua;
+}
+.card1{
+    background-color: aliceblue;
+    border: 1px solid white;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+}
+.card1 img{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 280px;
+    height: 150px;
+}
